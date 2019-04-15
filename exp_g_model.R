@@ -1,5 +1,6 @@
 # Script to run expected goals model
 
+# Source data cleaning scripts and functions
 source('~/GitHub/expected-goals-model/clean_stratadata.R')
 source('~/GitHub/expected-goals-model/functions.R')
 
