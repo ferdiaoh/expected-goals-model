@@ -15,4 +15,4 @@ chances <- do.call(rbind, chances_list)
 mins <- do.call(rbind, mins_list)
 
 # Rename ID column in mins to match chances data frame
-colnames(mins)[5] <- "gsm_id"
+colnames(mins)[5] <- 'gsm_id'
